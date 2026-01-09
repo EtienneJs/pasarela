@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pulse - Premium Product Carousel",
+  "description": "A high-performance, responsive product carousel powered by Gemini for generating trending product data. Features sleek glassmorphism design, smooth animations, and interactive navigation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
